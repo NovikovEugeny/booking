@@ -1,0 +1,130 @@
+{
+  "result": "success",
+  "data": {
+    "stations": {
+      "4": {
+        "id": 4,
+        "title": "\u0416\u0414 \u0412\u041e\u041a\u0417\u0410\u041b (\u043f\u0435\u0440\u0435\u0441\u0435\u0447\u0435\u043d\u0438\u0435 \u0443\u043b.\u041a\u0438\u0440\u043e\u0432\u0430 \u0438 \u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0430)"
+      },
+      "5": {
+        "id": 5,
+        "title": "\u043e\u0441\u0442. \u0443\u043b. \u0421\u0412\u0415\u0420\u0414\u041b\u041e\u0412\u0410"
+      }
+    },
+    "trips": {
+      "68658": {
+        "route": "\u041c\u0438\u043d\u0441\u043a -> \u041c\u043e\u0433\u0438\u043b\u0435\u0432 ",
+        "seats": 1,
+        "show_free_seats": true,
+        "id": "68658",
+        "price": 10,
+        "route_id": 1,
+        "all_seats": 15,
+        "date": "18-10-2019",
+        "weekday": 5,
+        "transport": "MERCEDES SPRINTER (\u0431\u0435\u043b\u044b\u0439) 47-09",
+        "active": true,
+        "departure_time": "18:00"
+      },
+      "68628": {
+        "route": "\u041c\u0438\u043d\u0441\u043a -> \u041c\u043e\u0433\u0438\u043b\u0435\u0432 ",
+        "seats": 1,
+        "show_free_seats": true,
+        "id": "68658",
+        "price": 10,
+        "route_id": 2,
+        "all_seats": 15,
+        "date": "02-02-2000",
+        "weekday": 5,
+        "transport": "MERCEDES SPRINTER (\u0431\u0435\u043b\u044b\u0439) 47-09",
+        "active": true,
+        "departure_time": "18:00"
+      },
+      "69171": {
+        "route": "\u041c\u0438\u043d\u0441\u043a -> \u041c\u043e\u0433\u0438\u043b\u0435\u0432 ",
+        "seats": 15,
+        "show_free_seats": true,
+        "id": "69171",
+        "price": 10,
+        "route_id": 1,
+        "all_seats": 15,
+        "date": "02-02-2000",
+        "weekday": 5,
+        "transport": "MERCEDES SPRINTER (\u0431\u0435\u043b\u044b\u0439) 47-09",
+        "active": true,
+        "departure_time": "18:00"
+      },
+      "68660": {
+        "route": "\u041c\u0438\u043d\u0441\u043a -> \u041c\u043e\u0433\u0438\u043b\u0435\u0432 ",
+        "seats": 0,
+        "show_free_seats": true,
+        "id": "68660",
+        "price": 10,
+        "route_id": 1,
+        "all_seats": 15,
+        "date": "02-02-2000",
+        "weekday": 5,
+        "transport": "MERCEDES SPRINTER (\u0431\u0435\u043b\u044b\u0439) 49-88",
+        "active": true,
+        "departure_time": "18:30"
+      },
+      "65173": {
+        "route": "\u041c\u0438\u043d\u0441\u043a -> \u041c\u043e\u0433\u0438\u043b\u0435\u0432 ",
+        "seats": 15,
+        "show_free_seats": true,
+        "id": "69173",
+        "price": 10,
+        "route_id": 1,
+        "all_seats": 15,
+        "date": "02-02-2000",
+        "weekday": 5,
+        "transport": "MERCEDES SPRINTER (\u0431\u0435\u043b\u044b\u0439) 49-88",
+        "active": true,
+        "departure_time": "19:00"
+      },
+      "69173": {
+        "route": "\u041c\u0438\u043d\u0441\u043a -> \u041c\u043e\u0433\u0438\u043b\u0435\u0432 ",
+        "seats": 15,
+        "show_free_seats": true,
+        "id": "69173",
+        "price": 10,
+        "route_id": 1,
+        "all_seats": 15,
+        "date": "02-02-2000",
+        "weekday": 5,
+        "transport": "MERCEDES SPRINTER (\u0431\u0435\u043b\u044b\u0439) 49-88",
+        "active": true,
+        "departure_time": "19:05"
+      },
+      "69473": {
+        "route": "\u041c\u0438\u043d\u0441\u043a -> \u041c\u043e\u0433\u0438\u043b\u0435\u0432 ",
+        "seats": 15,
+        "show_free_seats": true,
+        "id": "69473",
+        "price": 10,
+        "route_id": 1,
+        "all_seats": 15,
+        "date": "02-02-2000",
+        "weekday": 5,
+        "transport": "MERCEDES SPRINTER (\u0431\u0435\u043b\u044b\u0439) 49-88",
+        "active": true,
+        "departure_time": "19:30"
+      },
+      "39173": {
+        "route": "\u041c\u0438\u043d\u0441\u043a -> \u041c\u043e\u0433\u0438\u043b\u0435\u0432 ",
+        "seats": 15,
+        "show_free_seats": true,
+        "id": "69173",
+        "price": 10,
+        "route_id": 1,
+        "all_seats": 15,
+        "date": "02-02-2000",
+        "weekday": 5,
+        "transport": "MERCEDES SPRINTER (\u0431\u0435\u043b\u044b\u0439) 49-88",
+        "active": true,
+        "departure_time": "21:30"
+      }
+    }
+  },
+  "messages": []
+}

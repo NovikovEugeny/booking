@@ -1,0 +1,10 @@
+{
+  "firstName": "Имя",
+  "lastName": "Фамилия",
+  "middleName": "Отчество",
+  "startTime": "19:00",
+  "endTime": "21:30",
+  "phone": "375259237304",
+  "seats": "1",
+  "sidePlace": true
+}
